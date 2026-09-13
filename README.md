@@ -1,7 +1,7 @@
 <!-- HEADER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:00f5ff&height=200&section=header&text=Om%20Prasanna%20Sahoo&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Noob%20Copy%20Paster%20%E2%80%A2%20%E2%80%A2%20Web%20Devloper&descAlignY=60&descSize=16" width="100%"/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=60&duration=3500&pause=1200&center=true&vCenter=true&width=1080&height=100&color=f75c7e&lines=Hi!%2C+I'm+Om,+I'm+a+Developer+%3B%29" alt="Typing SVG" /></a> </p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=60&duration=3500&pause=1200&center=true&vCenter=true&width=1080&height=100&color=f75c7e&lines=Hi%2C+there!+i'm+om;i'm+a+web+devloper(^///^)" alt="Typing SVG" /></a> </p>
 
 ## **☕ About me**
 
@@ -27,7 +27,7 @@ Hehe~ another one has been caught stalking my profile 😏.
 </p>
 
 <h3>
-<a href=""><img align="left" width="100" src="./images/miyamura2.png"></a>
+<a href=""><img align="left" width="65" src="./images/miyamura2.png"></a>
 
 ---
 
