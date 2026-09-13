@@ -1,13 +1,11 @@
 <!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:00f5ff&height=200&section=header&text=Yato%20Mishra&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Noob%20Copy%20Paster%20%E2%80%A2%20%E2%80%A2%20Bot%20Automation&descAlignY=60&descSize=16" width="100%"/>
-
-<a href="https://github.com/proyato"><img src="https://readme-typing-svg.herokuapp.com?font=Russo+One&size=30&duration=4000&pause=1000&color=F7F7F7&width=435&lines=Hey%2C+my+self+Yato+;From+Delhi%2C+India;Copy+Paster+Bot/Web+Dev!;Telegram%3A+%40Codeflix_Bots" alt="https://t.me/ProYato" /></a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:00f5ff&height=200&section=header&text=Om%20Prasanna%20Sahoo&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Noob%20Copy%20Paster%20%E2%80%A2%20%E2%80%A2%20Bot%20Automation&descAlignY=60&descSize=16" width="100%"/>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=60&duration=3500&pause=1200&center=true&vCenter=true&width=1080&height=100&color=f75c7e&lines=Hi!%2C+I'm+Yato;I'm++Not+a+Developer+" alt="Typing SVG" /></a> </p>
 
 ## **☕ About me**
 
-<a href=""><img align="left" width="100" src="./images/hehe.png"></a>**Hey, I'm Yato. My hobbies include Reading manga/manhwa/pornhwa, watching anime, and occasionally tinkering with random stuff, like touching some grass.**
+<a href=""><img align="left" width="100" src="./images/hehe.png"></a>**Hey, I'm Om. My hobbies include Reading manga/manhwa, watching anime, and occasionally tinkering with random stuff, like touching some grass.**
 <br><br>
 
 ## **🧋Cutie Counter**
@@ -17,12 +15,12 @@
 ```yaml
 People who visit my profile :<3.
 
-Hehe~ another cutie has been caught stalking my profile 😏.
+Hehe~ another one has been caught stalking my profile 😏.
 ```
 <!-- <br><br><br><br> -->
 
 <p align="center">
-  <a href="https://t.me/proyato"><img src="https://graph.org/file/31edefa519fdb5db27b30.jpg"></a>
+  <a href="https://x.com/omprasannasahoo"><img src="https://x.com/favicon.ico"></a>
     </p>
 <p align="center">
 
