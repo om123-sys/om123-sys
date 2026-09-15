@@ -8,7 +8,7 @@
 ## **☕ About me**
 
 <a href=""><img align="left" width="100" src="./images/hehe.png"></a>**Hey, I'm Om. My hobbies include Reading manga/manhwa, watching anime, and occasionally tinkering with random stuff, like touching some grass &nbsp;&nbsp;=￣ω￣=&nbsp;&nbsp; .**
-<br><br>
+<br><br><br><br>
 
 ## **🧋Cutie Counter**
 <a href=""><img align="right" width=400 src="https://count.getloli.com/get/@codeflix-bots?theme=rule34"></a>
@@ -19,7 +19,7 @@ People who visit my profile :<3.
 
 Thank You For Visiting ヾ(≧▽≦*)o
 ```
-<!-- <br><br><br><br> -->
+<br>
 
 
 <h3>
