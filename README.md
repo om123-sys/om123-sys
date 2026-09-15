@@ -7,7 +7,7 @@
 
 ## **☕ About me**
 
-<a href=""><img align="left" width="100" src="./images/hehe.png"></a>**Hey, I'm Om. My hobbies include Reading manga/manhwa, watching anime, and occasionally tinkering with random stuff, like touching some grass.**
+<a href=""><img align="left" width="100" src="./images/hehe.png"></a>**Hey, I'm Om. My hobbies include Reading manga/manhwa, watching anime, and occasionally tinkering with random stuff, like touching some grass &nbsp;&nbsp;=￣ω￣=&nbsp;&nbsp; **
 <br><br>
 
 ## **🧋Cutie Counter**
@@ -17,7 +17,7 @@
 ```yaml
 People who visit my profile :<3.
 
-Hehe~ another one has been caught stalking my profile 😏.
+Thank You For Visiting ヾ(≧▽≦*)o
 ```
 <!-- <br><br><br><br> -->
 
@@ -34,9 +34,11 @@ Hehe~ another one has been caught stalking my profile 😏.
   <a href="https://www.instagram.com/omprasannasahoo1812026/">
     <img src="https://img.shields.io/badge/-Instagram-black.svg?style=for-the-badge&logo=instagram" height="40" alt="Instagram" style="border-radius:10px; margin:8px; box-shadow:0 6px 18px rgba(255,255,255,0.08);"/>
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://x.com/omprasannasahoo">
     <img src="https://img.shields.io/badge/-X-black.svg?style=for-the-badge&logo=x" height="40" alt="X" style="border-radius:10px; margin:8px; box-shadow:0 6px 18px rgba(255,255,255,0.08);"/>
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://telegram.me/Seo_jeho">
     <img src="https://img.shields.io/badge/-Telegram-black.svg?style=for-the-badge&logo=telegram" height="40" alt="Telegram" style="border-radius:10px; margin:8px; box-shadow:0 6px 18px rgba(255,255,255,0.08);"/>
   </a>
